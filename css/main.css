@@ -850,7 +850,7 @@ nav ul li a:hover {
 }
 
 
-.text-1 {
+.img1 {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -870,7 +870,7 @@ nav ul li a:hover {
 }
 
 
-.text-1:hover {
+.img1:hover {
     opacity: 1;
 }
 
